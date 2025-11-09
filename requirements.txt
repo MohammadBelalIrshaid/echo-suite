@@ -1,0 +1,12 @@
+pathlib
+mmcv-full
+decord
+ftfy
+einops
+termcolor
+timm
+regex
+yacs
+pandas
+scikit-learn
+matplotlib

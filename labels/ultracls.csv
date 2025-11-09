@@ -1,0 +1,39 @@
+id,name
+0,Apical 4C 2D
+1,Apical 2C 2D
+2,Apical 3C 2D
+3,Parasternal Mitral Valve Short Axis
+4,Parasternal Papillary Muscle Short Axis 2D
+5,Parasternal Apical Short Axis 2D
+6,Apical 5C AV CW
+7,Subxiphoid IVC 2D
+8,Parasternal Long Axis 2D
+9,Parasternal Long Axis of the Pulmonary Artery
+10,Parasternal Short Axis Tricuspid PW
+11,Apical 4C Color
+12,Apical 4C MV Annulus TDI PW
+13,Parasternal Long Axis Color
+14,Apical 4C MV PW
+15,Parasternal Short Axis Tricuspid Color
+16,Parasternal Long Axis M-mode
+17,Apical 4C Right Ventricular Focus
+18,Parasternal Right Ventricular Outflow Tract Color
+19,Parasternal Right Ventricular Outflow Tract RVOT PW
+20,Parasternal Right Ventricular Outflow Tract PA PW
+21,Apical 4C TV Annulus TDI PW
+22,Apical 4C TAPSE
+23,Parasternal Right Ventricular Inflow Tract Color
+24,Parasternal Right Ventricular Inflow Tract 2D
+25,Parasternal Short Axis Tricuspid Regurgitation CW
+26,Subxiphoid IVC M-mode
+27,Suprasternal Notch
+28,Parasternal Right Ventricular Outflow Tract PR CW
+29,A4C LVO
+30,A3C LVO
+31,A4C MCE
+32,A3C MCE
+33,A2C MCE
+34,A2C LVO
+35,A4C MCE Flash
+36,A2C MCE Flash
+37,A3C MCE Flash
