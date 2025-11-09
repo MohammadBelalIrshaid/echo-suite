@@ -1,0 +1,22 @@
+DATA:
+    ROOT: 'path/to/video'
+    TRAIN_FILE: 'datasets_splits/ultraqc/train.txt'
+    VAL_FILE: 'datasets_splits/ultraqc/val.txt'
+    DATASET: ultraqc
+    NUM_FRAMES: 16
+    NUM_CLASSES: 3
+    NUM_QUALITIES: 38
+    LABEL_LIST: 'labels/quality.csv'
+MODEL:
+    ARCH: ViT-B/16
+    RESUME: "output/train_stage2/ckpt_epoch_29.pth"
+TRAIN:
+    BATCH_SIZE: 4 # BS 512
+    ACCUMULATION_STEPS: 16
+    LR: 1e-05
+TEST:
+    MULTI_VIEW_INFERENCE: False
+TRAINER:
+  ViFi_CLIP:
+    ZS_EVAL: False # Make True only during test mode to evaluate zero-shot vanilla CLIP performance
+    USE: "quality" # both refers to complete fine-tuning of CLIP (text+image encoders)
