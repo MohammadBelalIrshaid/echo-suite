@@ -1,9 +1,0 @@
-[submodule "third_party/echo_CLIP"]
-	path = third_party/echo_CLIP
-	url = https://github.com/echonet/echo_CLIP
-[submodule "third_party/EchoPrime"]
-	path = third_party/EchoPrime
-	url = https://github.com/echonet/EchoPrime
-[submodule "third_party/EchoViewCLIP"]
-	path = third_party/EchoViewCLIP
-	url = https://github.com/xmed-lab/EchoViewCLIP
